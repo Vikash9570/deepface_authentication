@@ -35,3 +35,14 @@ export ALGORITHM=HS256
 ```
 python main.py 
 ```
+
+
+
+
+
+```
+## Project Flow Chart
+
+![alt text](image.png)
+
+```

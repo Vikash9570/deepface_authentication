@@ -54,7 +54,7 @@ router = APIRouter(
 )
 
 
-# Calloging the logger for Database read and insert operations
+# Call loging the logger for Database read and insert operations
 
 
 async def get_current_user(request: Request):
